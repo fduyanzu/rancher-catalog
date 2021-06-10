@@ -1,7 +1,7 @@
 version: '2'
 
 .catalog:
-  name: word press
+  name: wordPress
   version: v1.0.0
   description: |
     test app
